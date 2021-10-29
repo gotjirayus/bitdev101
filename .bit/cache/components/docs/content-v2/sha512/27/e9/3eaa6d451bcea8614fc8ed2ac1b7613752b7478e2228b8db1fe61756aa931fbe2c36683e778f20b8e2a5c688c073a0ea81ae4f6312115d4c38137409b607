@@ -1,0 +1,1 @@
+[{"filePath":"button.tsx","name":"Button","description":"","properties":[{"name":"text","description":"a text to be rendered in the component.","required":true,"type":"string"},{"name":"importance","description":"","required":false,"type":"'primary' | 'secondary'"}],"access":"public","methods":[],"args":[],"examples":[]}]
